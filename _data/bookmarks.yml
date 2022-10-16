@@ -1,0 +1,4 @@
+sql:
+  - name: SQLServerFast Execution Plan Operator List
+    description: List of all known execution plan operator icons, their names, a description, and usually a link to a more in-depth breakdown of how it works
+    link: https://sqlserverfast.com/epr/operator-list
