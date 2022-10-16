@@ -2,6 +2,7 @@
 layout: page
 title: Bookmarks
 description: Useful online tools and resources
+permalink: /bookmarks/
 ---
 
 {% for category in site.data.bookmarks %}
