@@ -11,7 +11,7 @@ TLDR:
 
 ---
 
-From the [nc man page]()
+From the [nc man page](https://linux.die.net/man/1/nc)
 
 It may be useful to know which ports are open and running services on a target machine. The -z flag can be used to tell nc to report open ports, rather than initiate a connection. For example:
 
