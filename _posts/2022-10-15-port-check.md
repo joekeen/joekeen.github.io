@@ -1,7 +1,7 @@
 ---
 layout: post
-title: port scanning
-categories: firewall
+title: TIP: port scanning
+categories: netcat
 ---
 
 TLDR:
