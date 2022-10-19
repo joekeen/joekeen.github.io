@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIP: port scanning
+title: TIP - port scanning
 categories: netcat
 ---
 
