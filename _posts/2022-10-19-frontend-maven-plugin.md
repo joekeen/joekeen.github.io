@@ -13,7 +13,7 @@ Some explanation:
 * Lastly, the integration test script `e2e` is bound to the integreation-test phase.
 * The node app can be started via `mvn frontend:yarn@start` which is bound to `yarn start`.
 
-```
+```xml
 <plugin>
     <groupId>com.github.eirslett</groupId>
     <artifactId>frontend-maven-plugin</artifactId>
